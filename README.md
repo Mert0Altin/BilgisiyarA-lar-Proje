@@ -7,6 +7,7 @@ cd ns-3-dev
 
 
 ardından gerekli bağlantıları kurduk
+
 ./waf configure --enable-examples --enable-tests
 
 ./waf build
